@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeTestFir", "Calculator\PracticeTestFir.csproj", "{BC123540-51E3-47EB-8896-0A4F1801A5BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password.Tests", "Calculator.Tests\Password.Tests.csproj", "{1249AADA-C5C8-487C-8C45-8DBFCB7CAB77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC123540-51E3-47EB-8896-0A4F1801A5BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC123540-51E3-47EB-8896-0A4F1801A5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC123540-51E3-47EB-8896-0A4F1801A5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC123540-51E3-47EB-8896-0A4F1801A5BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1249AADA-C5C8-487C-8C45-8DBFCB7CAB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1249AADA-C5C8-487C-8C45-8DBFCB7CAB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1249AADA-C5C8-487C-8C45-8DBFCB7CAB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1249AADA-C5C8-487C-8C45-8DBFCB7CAB77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14D32D86-60B1-4119-A611-2DACDACE1460}
+	EndGlobalSection
+EndGlobal
